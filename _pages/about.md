@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello World! This is Sayali! I'm a Graduate Researcher in Mechanical Engineering at the University of Cincinnati."
+title: "Hello everyone! :)"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a Graduate Researcher in Mechanical Engineering, advised by [Dr. Kumar Vemaganti](https://researchdirectory.uc.edu/p/vemagaks) at the University of Cincinnati ([Vemaganti Research Group](http://vemaganti.com)). My research is focused on "Bayesian learning in solid mechanics", an area that is highly computational and involves multiple disciplines of study including Bayesian Statistics, Mechanical Engineering and Scientific Computing.
 
-I earned my Masters (M.S.) in Mechanical Engineering in 2016 from the University of Kansas, where my research was in the area of Computational Fluid Mechanics.
+I earned my Masters (M.S.) in Mechanical Engineering in 2016 from the University of Kansas, where my research was in the area of Computational Fluid Mechanics ([Computational Mechanics Laboratory](https://me.engr.ku.edu/karan-s-suranas-research)).
 
 Research Interests: Solid Mechanics, Uncertainty Quantification, Machine Learning, Scientific Computing, Numerical Analysis, Fluid Mechanics
 
