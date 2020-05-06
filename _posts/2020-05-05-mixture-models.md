@@ -35,22 +35,22 @@ Marginal probability $$p(z_i)$$:
 <!-- p(z_i) = \prod_{c \in \{ 1,2, \hdots, k \} } \pi_c^{\mathbbm{1}  (z_i=c)} -->
 <p style="text-align:center;"><img src="/images/equations/mixturemodels/eqn-pzi.gif" alt="eqn-pzi"/></p>
 
-Gaussian conditional probability $$ p(x_i|z_i ) $$:
+Gaussian conditional probability:
 
 <!-- p({x_i}|{z_i}) = \prod_{c} \mathcal{N}(x_i; \mu_c, \sigma^2)^{\mathbbm{1}  (z_i=c)} -->
 <p style="text-align:center;"><img src="/images/equations/mixturemodels/eqn-pxizi.gif" alt="eqn-pxizi"/></p>
 
-probability density for one data point $$p(x_i)$$:
+Probability density for one data point $$p(x_i)$$:
 
 <!-- p(x_i) &=  \sum_{z_i} p(x_i|z_i)p(z_i) = \sum_{z_i} \prod_c \mathcal{N}(x_i; \mu_c, \sigma^2)^{\mathbbm{1}  (z_i=c)} \pi_c^{\mathbbm{1}  (z_i=c)} -->
 
 <p style="text-align:center;"><img src="/images/equations/mixturemodels/eqn-pxi.gif" alt="eqn-pxi"/></p>
 
+Joint density or likelihood for  $$D = \{ x_1, x_2, .., x_n \}$$
 <!-- \begin{align*}
-&\text{Joint density or likelihood for } D = \{ x_1, x_2, \hdots, x_n \}\\
-&L = p(D) = \prod_{i=1}^n \mathcal{N}(x_i; \mu_c, \sigma^2)^{\mathbbm{1}  (z_i=c)} \pi_c^{\mathbbm{1}  (z_i=c)}\\
-&\text{Log-likelihood}\\
-&l = \sum_{i=1}^n \log (\mathcal{N}(x_i; \mu_c, \sigma^2)^{\mathbbm{1}  (z_i=c)} \pi_c^{\mathbbm{1}  (z_i=c)})\\
+L = p(D) &= \prod_{i=1}^n \mathcal{N}(x_i; \mu_c, \sigma^2)^{\mathbbm{1}  (z_i=c)} \pi_c^{\mathbbm{1}  (z_i=c)}\\
+\text{Log-likelihood}\\
+l &= \sum_{i=1}^n \log (\mathcal{N}(x_i; \mu_c, \sigma^2)^{\mathbbm{1}  (z_i=c)} \pi_c^{\mathbbm{1}  (z_i=c)})\\
 \end{align*} -->
 
 <p style="text-align:center;"><img src="/images/equations/mixturemodels/eqn-jointloglikeli1.gif" alt="eqn-jointloglikeli1"/></p>
@@ -67,10 +67,16 @@ An elegant and powerful approach E-M algorithm, particularly for latent variable
 
 **E Step**:
 - fix parameters $$\mu_{a}, \mu_{b}, \mu_{c},\sigma_{a}, \sigma_{b},\sigma_{c}$$ and
-- compute posterior distribution $$p({z_i = a}|x_i ), p({z_i = b}|x_i ), p({z_i = c}|x_i )$$
+- compute posterior distribution
+<!-- p({z_i = a}|x_i ), p({z_i = b}|x_i ), p({z_i = c}|x_i ) -->
+
+<p style="text-align:center;"><img src="/images/equations/mixturemodels/eqn-esteppost1.gif" alt="eqn-esteppost1"/></p>
 
 **M Step**:
-- fix the posterior distribution $$p({z_i = a}|x_i ), p({z_i = b}|x_i ), p({z_i = c}|x_i )$$ and
+- fix the posterior distribution
+<!-- p({z_i = a}|x_i ), p({z_i = b}|x_i ), p({z_i = c}|x_i ) \text{ and} -->
+<p style="text-align:center;"><img src="/images/equations/mixturemodels/eqn-msteppost1.gif" alt="eqn-msteppost1"/></p>
+
 - optimize for $$\mu_{a}, \mu_{b}, \mu_{c}, \sigma_{a}, \sigma_{b},\sigma_{c}$$.
 
 <!-- - Type 2: -->
