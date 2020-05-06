@@ -10,6 +10,8 @@ tags:
   - Data Science
 ---
 
+## Latent variables
+
 Latent variables are the random variables whose values are not specified in the observed data.
 Modeling these latent variables is required to explained the observed data in terms of the unobserved concepts. Since these variables cannot be observed or measured experimentally.
 Examples:
@@ -22,20 +24,19 @@ We want to model $$p(x, z|\theta)$$, so marginalizing over $$z$$, we can write $
 For estimating unknown model parameters $$\theta$$, we can compute the Maximum Likelihood Estimate (MLE) on visible variables alone.
 
 ## Mixture models
-===
 
 When latent variables $$z$$ are discrete and observed variables $$x$$ are continuous, mixture modeling can be adopted to solve the problem.
-It aims at maximizing the marginal likelihood of observed variables $$p(x) = \int_{z} p(x,z)$$.
+It aims at maximizing the marginal likelihood of observed variables \[ p(x) = \int_{z} p(x,z) \].
 
-- Type 1: Model assumptions: Discrete categorical latent variables $$z \in {1,2, \hdots, k}$$,univariate case: continuous observed variables $$D = \{ x_1, x_2, \hdots, x_n \}$$. The mean $$\mu$$ is different and $$\sigma$$ is same for each component of Gaussians, mixing weights are known.
+- Type 1: Model assumptions: Discrete categorical latent variables \[ z \in {1,2, \hdots, k} \],univariate case: continuous observed variables \[ D = \{ x_1, x_2, \hdots, x_n \} \]. The mean $$\mu$$ is different and $$\sigma$$ is same for each component of Gaussians, mixing weights are known.
 
 Marginal probability $$p(z_i)$$:
 
 $$p(z_i) = \prod_{c \in \{ 1,2, \hdots, k \} } \pi_c^{\mathbbm{1}  (z_i=c)}$$
 
-Gaussian conditional probability $$p(x_i |z_i )$$:
+Gaussian conditional probability \[ p(x_i |z_i ) \]:
 
-$$p(x_i|z_i) = \prod_c \mathcal{N}(x_i; \mu_c, \sigma^2)^{\mathbbm{1}  (z_i=c)}$$
+\[ p(x_i|z_i) = \prod_c \mathcal{N}(x_i; \mu_c, \sigma^2)^{\mathbbm{1}  (z_i=c)} \]
 
 probability density for one data point $$p(x_i)$$:
 
@@ -62,3 +63,6 @@ An elegant and powerful approach E-M algorithm, particularly for latent variable
 **M Step**: fix the posterior distribution $$p(z_i = a|x_i ), p(z_i = b|x_i ), p(z_i = c|x_i )$$ and optimize for $$\mu_{a}, \mu_{b}, \mu_{c}, \sigma_{a}, \sigma_{b},\sigma_{c}$$.
 
 <!-- - Type 2: -->
+## References:
+
+1. Grosse, R., Machine Learning [CS 2515](http://www.cs.toronto.edu/~rgrosse/courses/csc2515_2019/)
