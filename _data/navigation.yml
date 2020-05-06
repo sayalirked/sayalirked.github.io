@@ -12,8 +12,8 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
 
-  # - title: "Technical blog posts"
-  #   url: /year-archive/
+  - title: "Technical blog posts"
+    url: /year-archive/
 
   - title: "CV"
     url: https://sayrjked.github.io/files/sayali-cv-web.pdf #/cv/
