@@ -1,8 +1,10 @@
 ---
-title: 'Modeling latent variables - Mixture Models'
+title: "Modeling latent variables - Mixture Models"
 date: 2020-05-05
 excerpt: The post explains the concept of **Modeling latent variables: Mixture Models**. Click [here](https://sayrjked.github.io/posts/2020/05/modeling-latent-var-mixmodels/) to read further.
+
 permalink: /posts/2020/05/modeling-latent-var-mixmodels/
+
 tags:
   - Machine Learning
   - Probability
