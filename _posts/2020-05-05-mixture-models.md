@@ -28,36 +28,38 @@ For estimating unknown model parameters $$\theta$$, we can compute the Maximum L
 When latent variables $$z$$ are discrete and observed variables $$x$$ are continuous, mixture modeling can be adopted to solve the problem.
 It aims at maximizing the marginal likelihood of observed variables $$p(x) = \int_{z} p(x,z)$$.
 
-- Type 1: Model assumptions: Discrete categorical latent variables $$ z \in \{1,2, \hdots, k\} $$,univariate case: continuous observed variables $$ D = \{ x_1, x_2, \hdots, x_n \} $$. The mean $$\mu$$ is different and $$\sigma$$ is same for each component of Gaussians, mixing weights are known.
+- Type 1: Model assumptions: Discrete categorical latent variables $$ z \in \{1,2, ..., k\} $$,univariate case: continuous observed variables $$ D = \{ x_1, x_2, ..., x_n \} $$. The mean $$\mu$$ is different and $$\sigma$$ is same for each component of Gaussians, mixing weights are known.
 
 Marginal probability $$p(z_i)$$:
 
-$$p(z_i) = \prod_{c \in \{ 1,2, \hdots, k \} } \pi_c^{\mathbbm{1}  (z_i=c)}$$
+<!-- p(z_i) = \prod_{c \in \{ 1,2, \hdots, k \} } \pi_c^{\mathbbm{1}  (z_i=c)} -->
+<p style="text-align:center;"><img src="/images/equations/mixturemodels/eqn-pzi.gif" alt="eqn-pzi"/></p>
 
 Gaussian conditional probability $$ p(x_i|z_i ) $$:
 
-$$p({x_i}|{z_i}) = \prod_{c} \mathcal{N}(x_i; \mu_c, \sigma^2)^{\mathbbm{1}  (z_i=c)}$$
+<!-- p({x_i}|{z_i}) = \prod_{c} \mathcal{N}(x_i; \mu_c, \sigma^2)^{\mathbbm{1}  (z_i=c)} -->
+<p style="text-align:center;"><img src="/images/equations/mixturemodels/eqn-pxizi.gif" alt="eqn-pxizi"/></p>
 
 probability density for one data point $$p(x_i)$$:
 
-<!-- $$p(x_i) &=  \sum_{z_i} p(x_i|z_i)p(z_i) = \sum_{z_i} \prod_c \mathcal{N}(x_i; \mu_c, \sigma^2)^{\mathbbm{1}  (z_i=c)} \pi_c^{\mathbbm{1}  (z_i=c)}$$ -->
+<!-- p(x_i) &=  \sum_{z_i} p(x_i|z_i)p(z_i) = \sum_{z_i} \prod_c \mathcal{N}(x_i; \mu_c, \sigma^2)^{\mathbbm{1}  (z_i=c)} \pi_c^{\mathbbm{1}  (z_i=c)} -->
 
-<p style="text-align:center;"><img src="/images/mixturemodels/eqn-pxi.gif" alt="eqn-pxi"/></p>
+<p style="text-align:center;"><img src="/images/equations/mixturemodels/eqn-pxi.gif" alt="eqn-pxi"/></p>
 
-
-$$
-\begin{eqnarray*}
+<!-- \begin{align*}
 &\text{Joint density or likelihood for } D = \{ x_1, x_2, \hdots, x_n \}\\
 &L = p(D) = \prod_{i=1}^n \mathcal{N}(x_i; \mu_c, \sigma^2)^{\mathbbm{1}  (z_i=c)} \pi_c^{\mathbbm{1}  (z_i=c)}\\
 &\text{Log-likelihood}\\
 &l = \sum_{i=1}^n \log (\mathcal{N}(x_i; \mu_c, \sigma^2)^{\mathbbm{1}  (z_i=c)} \pi_c^{\mathbbm{1}  (z_i=c)})\\
-\end{eqnarray*}
-$$
+\end{align*} -->
+
+<p style="text-align:center;"><img src="/images/equations/mixturemodels/eqn-jointloglikeli1.gif" alt="eqn-jointloglikeli1"/></p>
 
 
-Known variables: observed variables $${x}$$, mixing weights $$p(z_i=1), p(z_i=2), \hdots, p(z_i=k)$$;
 
-Unknown variables: latent variables $$\mu_c, \sigma, c=\{1,\hdots,k\}$$
+Known variables: observed variables $${x}$$, mixing weights $$p(z_i=1), p(z_i=2), .., p(z_i=k)$$;
+
+Unknown variables: latent variables $$\mu_c, \sigma, c=\{1,..,k\}$$
 
 ## Method: Expectation-Maximization algorithm
 
