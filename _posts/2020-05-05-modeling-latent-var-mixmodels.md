@@ -11,6 +11,7 @@ tags:
 
 ## Latent variables
 ===
+
 Latent variables are the random variables whose values are not specified in the observed data.
 Modeling these latent variables is required to explained the observed data in terms of the unobserved concepts. Since these variables cannot be observed or measured experimentally.
 Examples:
@@ -24,6 +25,7 @@ For estimating unknown model parameters $$\theta$$, we can compute the Maximum L
 
 ## Mixture models
 ===
+
 When latent variables $$z$$ are discrete and observed variables $$x$$ are continuous, mixture modeling can be adopted to solve the problem.
 It aims at maximizing the marginal likelihood of observed variables $$p(x) = \int_{z} p(x,z)$$.
 
