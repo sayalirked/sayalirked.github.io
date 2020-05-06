@@ -11,9 +11,6 @@ tags:
   - Data Science
 ---
 
-## Latent variables
-===
-
 Latent variables are the random variables whose values are not specified in the observed data.
 Modeling these latent variables is required to explained the observed data in terms of the unobserved concepts. Since these variables cannot be observed or measured experimentally.
 Examples:
