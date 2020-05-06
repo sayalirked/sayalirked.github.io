@@ -1,7 +1,7 @@
 ---
 title: 'Mixture Models'
 date: 2020-05-05
-excerpt: The post explains the concept of **Mixture Models**. Click [here](https://sayrjked.github.io/posts/2020/05/random-processes/) to read further.
+excerpt: The post explains the concept of **Mixture Models**. Click [here](https://sayrjked.github.io/posts/2020/05/mixture-models/) to read further.
 permalink: /posts/2020/05/mixture-models/
 
 tags:
@@ -26,21 +26,22 @@ For estimating unknown model parameters $$\theta$$, we can compute the Maximum L
 ## Mixture models
 
 When latent variables $$z$$ are discrete and observed variables $$x$$ are continuous, mixture modeling can be adopted to solve the problem.
-It aims at maximizing the marginal likelihood of observed variables \[ p(x) = \int_{z} p(x,z) \].
+It aims at maximizing the marginal likelihood of observed variables $$ p(x) = \int_{z} p(x,z) $$.
 
-- Type 1: Model assumptions: Discrete categorical latent variables \[ z \in {1,2, \hdots, k} \],univariate case: continuous observed variables \[ D = \{ x_1, x_2, \hdots, x_n \} \]. The mean $$\mu$$ is different and $$\sigma$$ is same for each component of Gaussians, mixing weights are known.
+- Type 1: Model assumptions: Discrete categorical latent variables $$ z \in {1,2, \hdots, k} $$,univariate case: continuous observed variables $$ D = \{ x_1, x_2, \hdots, x_n \} $$. The mean $$\mu$$ is different and $$\sigma$$ is same for each component of Gaussians, mixing weights are known.
 
 Marginal probability $$p(z_i)$$:
 
 $$p(z_i) = \prod_{c \in \{ 1,2, \hdots, k \} } \pi_c^{\mathbbm{1}  (z_i=c)}$$
 
-Gaussian conditional probability \[ p(x_i |z_i ) \]:
+Gaussian conditional probability $$ p(x_i|z_i ) $$:
 
-\[ p(x_i|z_i) = \prod_c \mathcal{N}(x_i; \mu_c, \sigma^2)^{\mathbbm{1}  (z_i=c)} \]
+$$p({x_i}|{z_i}) = \prod_{c} \mathcal{N}(x_i; \mu_c, \sigma^2)^{\mathbbm{1}  (z_i=c)}$$
 
 probability density for one data point $$p(x_i)$$:
 
-$$p(x_i) &=  \sum_{z_i} p(x_i|z_i)p(z_i) = \sum_{z_i} \prod_c \mathcal{N}(x_i; \mu_c, \sigma^2)^{\mathbbm{1}  (z_i=c)} \pi_c^{\mathbbm{1}  (z_i=c)}$$
+<!-- $$p(x_i) &=  \sum_{z_i} p(x_i|z_i)p(z_i) = \sum_{z_i} \prod_c \mathcal{N}(x_i; \mu_c, \sigma^2)^{\mathbbm{1}  (z_i=c)} \pi_c^{\mathbbm{1}  (z_i=c)}$$ -->
+<a href="https://www.codecogs.com/eqnedit.php?latex=p(x_i)&space;&=&space;\sum_{z_i}&space;p(x_i|z_i)p(z_i)&space;=&space;\sum_{z_i}&space;\prod_c&space;\mathcal{N}(x_i;&space;\mu_c,&space;\sigma^2)^{\mathbbm{1}&space;(z_i=c)}&space;\pi_c^{\mathbbm{1}&space;(z_i=c)}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?p(x_i)&space;&=&space;\sum_{z_i}&space;p(x_i|z_i)p(z_i)&space;=&space;\sum_{z_i}&space;\prod_c&space;\mathcal{N}(x_i;&space;\mu_c,&space;\sigma^2)^{\mathbbm{1}&space;(z_i=c)}&space;\pi_c^{\mathbbm{1}&space;(z_i=c)}" title="p(x_i) &= \sum_{z_i} p(x_i|z_i)p(z_i) = \sum_{z_i} \prod_c \mathcal{N}(x_i; \mu_c, \sigma^2)^{\mathbbm{1} (z_i=c)} \pi_c^{\mathbbm{1} (z_i=c)}" /></a>
 
 $$
 \begin{eqnarray*}
@@ -56,11 +57,13 @@ Known variables: observed variables $${x}$$, mixing weights $$p(z_i=1), p(z_i=2)
 
 Unknown variables: latent variables $$\mu_c, \sigma, c={1,\hdots,k}$$
 
+## Method: Expectation-Maximization algorithm
+
 An elegant and powerful approach E-M algorithm, particularly for latent variables, can be used.
 
-**E Step**: fix parameters $$\mu_{a}, \mu_{b}, \mu_{c},\sigma_{a}, \sigma_{b},\sigma_{c}$$ and compute posterior distribution $$p(z_i = a|x_i ), p(z_i = b|x_i ), p(z_i = c|x_i )$$
+**E Step**: fix parameters $$\mu_{a}, \mu_{b}, \mu_{c},\sigma_{a}, \sigma_{b},\sigma_{c}$$ and compute posterior distribution $$p({z_i = a}|x_i ), p({z_i = b}|x_i ), p({z_i = c}|x_i )$$
 
-**M Step**: fix the posterior distribution $$p(z_i = a|x_i ), p(z_i = b|x_i ), p(z_i = c|x_i )$$ and optimize for $$\mu_{a}, \mu_{b}, \mu_{c}, \sigma_{a}, \sigma_{b},\sigma_{c}$$.
+**M Step**: fix the posterior distribution $$p({z_i = a}|x_i ), p({z_i = b}|x_i ), p({z_i = c}|x_i )$$ and optimize for $$\mu_{a}, \mu_{b}, \mu_{c}, \sigma_{a}, \sigma_{b},\sigma_{c}$$.
 
 <!-- - Type 2: -->
 ## References:
