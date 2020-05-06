@@ -1,9 +1,8 @@
 ---
-title: "Modeling latent variables"
-date: 2020-05-04
-excerpt: The post explains the concept of **Modeling latent variables: Mixture Models**. Click [here](https://sayrjked.github.io/posts/2020/05/modeling-latent-variables/) to read further.
-
-permalink: /posts/2020/05/modeling-latent-variables/
+title: 'Mixture Models'
+date: 2020-05-05
+excerpt: The post explains the concept of **Mixture Models**. Click [here](https://sayrjked.github.io/posts/2020/05/random-processes/) to read further.
+permalink: /posts/2020/05/mixture-models/
 
 tags:
   - Machine Learning
