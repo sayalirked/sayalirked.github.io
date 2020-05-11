@@ -28,7 +28,7 @@ For estimating unknown model parameters $$\theta$$, we can compute the Maximum L
 When latent variables $$z$$ are discrete and observed variables $$x$$ are continuous, mixture modeling can be adopted to solve the problem.
 It aims at maximizing the marginal likelihood of observed variables $$p(x) = \int_{z} p(x,z)$$.
 
-- Type 1: Model assumptions: Discrete categorical latent variables $$ z \in \{1,2, ..., k\} $$, univariate case: continuous observed variables $$ D = \{ x_1, x_2, ..., x_n \} $$. The mean $$\mu$$ is different and $$\sigma$$ is same for each component of Gaussians, mixing weights are known.
+- **Type 1**: Model assumptions: Discrete categorical latent variables $$ z \in \{1,2, ..., k\} $$, univariate case: continuous observed variables $$ D = \{ x_1, x_2, ..., x_n \} $$. The mean $$\mu$$ is different and $$\sigma$$ is same for each component of Gaussians, mixing weights are known.
 
 Marginal probability $$p(z_i)$$:
 
@@ -87,7 +87,7 @@ Using MLE estimates of parameters, following probabilities can be estimated:
 <p style="text-align:center;"><img src="/images/equations/mixturemodels/eqn-condzx.gif" alt="eqn-condzx"/></p>
 
 
-- Type 2: Model assumptions: Discrete categorical latent variables $z \in \{1,2, ..., k\}$, multivariate case: continuous observed variables $\textbf{x}$. The mean $\mu$ and $\sigma$ are different for each component of Gaussians, mixing weights are unknown.
+- **Type 2**: Model assumptions: Discrete categorical latent variables $z \in \{1,2, ..., k\}$, multivariate case: continuous observed variables $\textbf{x}$. The mean $\mu$ and $\sigma$ are different for each component of Gaussians, mixing weights are unknown.
 
 Marginal probability $p(\textbf{z})$:
 <!-- p(\textbf{z}) = \prod_{c \in \{ 1,2, \hdots, k \} } \pi_c^{\mathbbm{1}  (\textbf{z}=c)} -->
@@ -106,13 +106,14 @@ l &= \sum_{i=1}^n \log (\pi_{a} \mathcal{N}(\textbf{x}_i; \boldsymbol{\mu}_{a}, 
 \end{align*} -->
 <p style="text-align:center;"><img src="/images/equations/mixturemodels/eqn-jointloglikeli1bf.gif" alt="eqn-jointloglikeli1bf"/></p>
 
+E-M algorithm can be used.
 
 Known variables: observed variables $\textbf{x}$;
 
 Unkown variables: latent variables $\boldsymbol{\mu}_c, \boldsymbol{\Sigma}_c, c={1,...,k}$, mixing weights $p(\textbf{z}_i=1), p(\textbf{z}_i=2), ..., p(\textbf{z}_i=k)$
 
 MLE estimates are the latent variables $\boldsymbol{\mu}_c, \boldsymbol{\Sigma}_c$, mixing weights $\pi_c, c={0,1,...,k}$
-\part Using MLE estimates of parameters, following probabilities can be estimated:
+Using MLE estimates of parameters, following probabilities can be estimated:
 
 <!-- p(\textbf{z}_i=1|\textbf{x}), \hdots, p(\textbf{z}_i=k|\textbf{x}) -->
 
