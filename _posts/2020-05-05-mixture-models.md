@@ -87,18 +87,18 @@ Using MLE estimates of parameters, following probabilities can be estimated:
 <p style="text-align:center;"><img src="/images/equations/mixturemodels/eqn-condzx.gif" alt="eqn-condzx"/></p>
 
 
-- Type 2: Model assumptions: Discrete categorical latent variables $z \in {1,2, ..., k}$, multivariate case: continuous observed variables $**x**$. The mean $\mu$ and $\sigma$ are different for each component of Gaussians, mixing weights are unknown.
+- Type 2: Model assumptions: Discrete categorical latent variables $z \in \{1,2, ..., k\}$, multivariate case: continuous observed variables $\textbf{x}$. The mean $\mu$ and $\sigma$ are different for each component of Gaussians, mixing weights are unknown.
 
-Marginal probability $p(**z**)$:
+Marginal probability $p(\textbf{z})$:
 <!-- p(\textbf{z}) = \prod_{c \in \{ 1,2, \hdots, k \} } \pi_c^{\mathbbm{1}  (\textbf{z}=c)} -->
 <p style="text-align:center;"><img src="/images/equations/mixturemodels/eqn-pzibf.gif" alt="eqn-pzibf"/></p>
 
-Conditional probability $p(**x**|**z**)$:
+Conditional probability $p(\textbf{x}|\textbf{z})$:
 <!-- \begin{align*}
 p(\textbf{x}|\textbf{z}) = \prod_c \mathcal{N}(\textbf{x}; \boldsymbol{\mu}_c, \boldsymbol{\Sigma}_c)^{\mathbbm{1} (\textbf{z}=c)}
 \end{align*} -->
 
-Joint density or likelihood for $**x**$:
+Joint density or likelihood for $\textbf{x}$:
 <!-- \begin{align*}
 L &= p(D) = \prod_{i=1}^n \{ \pi_{a} \mathcal{N}(\textbf{x}_i; \boldsymbol{\mu}_{a}, \boldsymbol{\Sigma}_{a}) + \pi_{b} \mathcal{N}(\textbf{x}_i; \boldsymbol{\mu}_{b}, \boldsymbol{\Sigma}_{b}) + \pi_{c} \mathcal{N}(\textbf{x}_i; \boldsymbol{\mu}_{c}, \boldsymbol{\Sigma}_{c}) \}\\
 \text{Log-likelihood:}\\
@@ -107,7 +107,7 @@ l &= \sum_{i=1}^n \log (\pi_{a} \mathcal{N}(\textbf{x}_i; \boldsymbol{\mu}_{a}, 
 <p style="text-align:center;"><img src="/images/equations/mixturemodels/eqn-jointloglikeli1bf.gif" alt="eqn-jointloglikeli1bf"/></p>
 
 
-Known variables: observed variables $**x**$;
+Known variables: observed variables $\textbf{x}$;
 
 Unkown variables: latent variables $\boldsymbol{\mu}_c, \boldsymbol{\Sigma}_c, c={1,...,k}$, mixing weights $p(\textbf{z}_i=1), p(\textbf{z}_i=2), ..., p(\textbf{z}_i=k)$
 
