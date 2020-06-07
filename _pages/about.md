@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Graduate Researcher in Mechanical Engineering, advised by [Dr. Kumar Vemaganti](https://researchdirectory.uc.edu/p/vemagaks) at the University of Cincinnati ([Vemaganti Research Group](http://vemaganti.com)). My research is focused on "Bayesian learning in solid mechanics", an area that is highly computational and involves multiple disciplines of study including Bayesian Statistics, Mechanical Engineering and Scientific Computing.
+I'm a Ph.D. student in Mechanical Engineering, advised by [Dr. Kumar Vemaganti](https://researchdirectory.uc.edu/p/vemagaks) at the University of Cincinnati ([Vemaganti Research Group](http://vemaganti.com)). My research is focused on "Bayesian learning in solid mechanics", an area that is highly computational and involves multiple disciplines of study including Bayesian Statistics, Mechanical Engineering and Scientific Computing. I'm currently a Graduate Research Assistant working on projects in collaboration with Procter & Gamble (P&G) at the [UC Simulation Center](https://ceas.uc.edu/research/centers-labs/uc-simulation-center.html).
 
 I earned my Masters (M.S.) in Mechanical Engineering in 2016 from the University of Kansas, where my research was in the area of Computational Fluid Mechanics ([Computational Mechanics Laboratory](https://me.engr.ku.edu/karan-s-suranas-research)).
 

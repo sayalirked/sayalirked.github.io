@@ -52,7 +52,7 @@ Work experience
 
 Skills
 ======
-* Programming/Scripting languages: C++, C, Python, Julia, MATLAB, LaTeX
+* Programming/Scripting languages: Python, Julia, MATLAB, C++, C, LaTeX
 * FEA/CFD Packages: Abaqus
 * CAD/CAE: CATIA V5, PTC Creo, Autodesk AutoCAD, SOLIDWORKS
 * HPC: MPI, OpenMP
