@@ -29,7 +29,7 @@ Work experience
 
 * Jan 2018 -- Aug 2018: Instructor
   * [University of Cincinnati](https://www.uc.edu/)
-  * Instructed the graduate-level course of 'Applied Computational Methods' in [College of Engineering and Applied Sciences](https://ceas.uc.edu/).
+  * Instructed the undergraduate-level course of 'Applied Computational Methods' in [College of Engineering and Applied Sciences](https://ceas.uc.edu/).
 
 * Aug 2016 -- Apr 2018: Graduate Teaching Assistant
   * [University of Cincinnati](https://www.uc.edu/)
