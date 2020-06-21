@@ -8,11 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. student in Mechanical Engineering, advised by [Dr. Kumar Vemaganti](https://researchdirectory.uc.edu/p/vemagaks) at the University of Cincinnati ([Vemaganti Research Group](http://vemaganti.com)). My research is focused on "Bayesian learning in solid mechanics", an area that is highly computational and involves multiple disciplines of study including Bayesian Statistics, Mechanical Engineering and Scientific Computing. I'm currently a Graduate Research Assistant working on projects in collaboration with Procter & Gamble (P&G) at the [UC Simulation Center](https://ceas.uc.edu/research/centers-labs/uc-simulation-center.html).
+I'm a Ph.D. student in Mechanical Engineering, advised by [Dr. Kumar Vemaganti](https://researchdirectory.uc.edu/p/vemagaks) at the University of Cincinnati ([Vemaganti Research Group](http://vemaganti.com)). My research is focused on "Bayesian learning in solid mechanics", an area that is highly computational and involves multiple disciplines of study including Bayesian Statistics, Mechanical Engineering and Scientific Computing. I'm investigating rheological constitutive models of solids, applying Bayesian statistical approaches to analyze the mechanical behavior of solids in order to improve the reliability of computer model predictions in real-world applications.
+
+I'm currently a Graduate Research Assistant working on projects in collaboration with Procter & Gamble (P&G) at the [UC Simulation Center](https://ceas.uc.edu/research/centers-labs/uc-simulation-center.html). My work involves employing physics-based ’predictive-design-approach’ to drive and outline process design and optimization guidelines using commercial FEA and programming tools.
 
 I earned my Masters (M.S.) in Mechanical Engineering in 2016 from the University of Kansas, where my research was in the area of Computational Fluid Mechanics ([Computational Mechanics Laboratory](https://me.engr.ku.edu/karan-s-suranas-research)).
 
+Contact: kedarisa [at] mail [dot] uc [dot] edu
+
 Research Interests: Solid Mechanics, Uncertainty Quantification, Machine Learning, Scientific Computing, Numerical Analysis, Fluid Mechanics
+
+Summary:
+- Strong background in Scientific Computing and Numerical Methods.
+- Expertise in different aspects of Uncertainty Quantification including optimal experimental design and calibration.
+- Experience in the application of the Bayesian framework to solve probabilistic inverse problems and traditional optimization methods to solve deterministic inverse problems in Solid Mechanics and Fluid Mechanics.
+- Comprehensive programming skills in Python, Julia, C++, C, MATLAB languages.
+- Demonstrated ability to work both independently as well as collaboratively as a member of cross-functional teams in industry (P\&G) and academia.
+- Proven ability to effectively handle multiple projects concurrently and manage competing priorities under demanding deadlines.
 
 I like to travel and share my experiences. You can read about some of my trips at my [Travel Photography Blog](http://sayalikedari.blogspot.com/).
 
