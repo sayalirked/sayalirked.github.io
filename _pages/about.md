@@ -23,7 +23,7 @@ Summary:
 - Expertise in different aspects of Uncertainty Quantification including optimal experimental design and calibration.
 - Experience in the application of the Bayesian framework to solve probabilistic inverse problems and traditional optimization methods to solve deterministic inverse problems in Solid Mechanics and Fluid Mechanics.
 - Comprehensive programming skills in Python, Julia, C++, C, MATLAB languages.
-- Demonstrated ability to work both independently as well as collaboratively as a member of cross-functional teams in industry (P\&G) and academia.
+- Demonstrated ability to work both independently as well as collaboratively as a member of cross-functional teams in industry (P&G) and academia.
 - Proven ability to effectively handle multiple projects concurrently and manage competing priorities under demanding deadlines.
 
 I like to travel and share my experiences. You can read about some of my trips at my [Travel Photography Blog](http://sayalikedari.blogspot.com/).
