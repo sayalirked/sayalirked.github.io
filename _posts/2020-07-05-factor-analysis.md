@@ -12,6 +12,8 @@ tags:
 
 When latent variables $$z$$ and observed variables $$x$$ are continuous, factor analysis can be adopted to solve the problem.
 
+[Detailed writeup coming soon.]
+
 
 ## References:
 
