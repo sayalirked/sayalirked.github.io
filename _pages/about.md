@@ -14,6 +14,8 @@ I'm currently a Graduate Research Assistant working on projects in collaboration
 
 I earned my Master of Science (M.S.) in Mechanical Engineering in 2016 from the University of Kansas, where my research was in the area of Computational Fluid Mechanics ([Computational Mechanics Laboratory](https://me.engr.ku.edu/karan-s-suranas-research)).
 
+#### Curriculum Vitae: [pdf](https://sayrjked.github.io/files/sayali-cv-web.pdf)
+
 #### Summary
 - Strong background in Scientific Computing and Numerical Methods.
 - Expertise in different aspects of Uncertainty Quantification including optimal experimental design and calibration.
