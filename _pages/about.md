@@ -14,11 +14,7 @@ I'm currently a Graduate Research Assistant working on projects in collaboration
 
 I earned my Master of Science (M.S.) in Mechanical Engineering in 2016 from the University of Kansas, where my research was in the area of Computational Fluid Mechanics ([Computational Mechanics Laboratory](https://me.engr.ku.edu/karan-s-suranas-research)).
 
-Contact: kedarisa [at] mail [dot] uc [dot] edu
-
-Research Interests: Solid Mechanics, Uncertainty Quantification, Machine Learning, Scientific Computing, Numerical Analysis, Fluid Mechanics
-
-Summary:
+#### Summary
 - Strong background in Scientific Computing and Numerical Methods.
 - Expertise in different aspects of Uncertainty Quantification including optimal experimental design and calibration.
 - Experience in the application of the Bayesian framework to solve probabilistic inverse problems and traditional optimization methods to solve deterministic inverse problems in Solid Mechanics and Fluid Mechanics.
@@ -26,7 +22,17 @@ Summary:
 - Demonstrated ability to work both independently as well as collaboratively as a member of cross-functional teams in industry (P&G) and academia.
 - Proven ability to effectively handle multiple projects concurrently and manage competing priorities under demanding deadlines.
 
-I like to travel and share my experiences. You can read about some of my trips at my [Travel Photography Blog](http://sayalikedari.blogspot.com/).
+Contact: kedarisa [at] mail [dot] uc [dot] edu
+
+#### Research Interests
+Solid Mechanics, Uncertainty Quantification, Machine Learning, Scientific Computing, Numerical Analysis, Fluid Mechanics
+
+## Teaching
+* MET 4076 - [Applied Computational Methods](https://sayrjked.github.io/teaching/2018-springsummer-teaching-1), Spring and Summer 2018.
+
+## Travel
+I like to travel and share my experiences.
+You can read about some of my trips at my [Travel Photography Blog](http://sayalikedari.blogspot.com/).
 
 ---
 <table class="wide">
@@ -55,3 +61,6 @@ I like to travel and share my experiences. You can read about some of my trips a
   </td>
 </tr>
 </table>
+
+
+
