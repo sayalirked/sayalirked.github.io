@@ -14,7 +14,7 @@ I'm currently a graduate research assistant working on projects in collaboration
 
 I earned my Master of Science (M.S.) in mechanical engineering in 2016 from the University of Kansas, where my research was focused on computational fluid mechanics ([Computational Mechanics Laboratory](https://me.engr.ku.edu/karan-s-suranas-research)).
 
-### Curriculum Vitae: [pdf](https://sayrjked.github.io/files/sayali-cv-web.pdf)
+### Curriculum vitae: [pdf](https://sayrjked.github.io/files/sayali-cv-web.pdf)
 ### Contact: kedarisa [at] mail [dot] uc [dot] edu
 
 ### Summary
@@ -29,10 +29,10 @@ I earned my Master of Science (M.S.) in mechanical engineering in 2016 from the 
 Solid mechanics, uncertainty quantification, machine learning, scientific computing, numerical analysis, fluid mechanics
 
 ## Teaching
-* MET 4076 - [Applied Computational Methods](https://sayrjked.github.io/teaching/2018-springsummer-teaching-1), spring and summer 2018.
+* MET 4076 - [Applied computational methods](https://sayrjked.github.io/teaching/2018-springsummer-teaching-1), spring and summer 2018.
 
 ## Travel
-I like to travel and share my experiences. You can read about some of my trips at my [Travel Photography Blog](http://sayalikedari.blogspot.com/).
+I like to travel and share my experiences. You can read about some of my trips at my [travel photography blog](http://sayalikedari.blogspot.com/).
 
 <br>
 <br>
