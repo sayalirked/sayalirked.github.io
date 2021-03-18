@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello everyone! :)"
+title: "SAYALI KEDARI"
 excerpt: "About me"
 author_profile: true
 redirect_from:
