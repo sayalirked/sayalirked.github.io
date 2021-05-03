@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. student in mechanical engineering, advised by [Dr. Kumar Vemaganti](https://researchdirectory.uc.edu/p/vemagaks) at the University of Cincinnati ([Vemaganti Research Group](http://vemaganti.com)). My research is focused on Bayesian learning in computational rheology - applications to soft tissues and polymers, an area that is highly computational and involves multiple disciplines of study including Bayesian statistics, mechanical engineering and scientific computing. I'm investigating rheological constitutive models of solids (soft biological materials and polymers), applying Bayesian statistical approaches to analyze the mechanical behavior of solids in order to improve the reliability of computer model predictions in real-world applications (traumatic brain injury, tissue engineering, computer-aided surgery, product design, material and food processing).
+I'm a Ph.D. candidate in mechanical engineering, advised by [Dr. Kumar Vemaganti](https://researchdirectory.uc.edu/p/vemagaks) at the University of Cincinnati ([Vemaganti Research Group](http://vemaganti.com)). My research is focused on Bayesian learning in computational rheology - applications to soft tissues and polymers, an area that is highly computational and involves multiple disciplines of study including Bayesian statistics, mechanical engineering and scientific computing. I'm investigating rheological constitutive models of solids (soft biological materials and polymers), applying Bayesian statistical approaches to analyze the mechanical behavior of solids in order to improve the reliability of computer model predictions in real-world applications (traumatic brain injury, tissue engineering, computer-aided surgery, product design, material and food processing).
 
 I'm currently a graduate research assistant working on projects in collaboration with Procter & Gamble (P&G) at the [UC Simulation Center](https://ceas.uc.edu/research/centers-labs/uc-simulation-center.html). My work involves employing physics-based predictive-design-approach to drive and outline process design and optimization guidelines using commercial finite element analysis (FEA) and programming tools.
 
@@ -26,7 +26,7 @@ I earned my Master of Science (M.S.) in mechanical engineering in 2016 from the 
 - Proven ability to effectively handle multiple projects concurrently and manage competing priorities under demanding deadlines.
 
 ### Research Interests
-Solid mechanics, uncertainty quantification, machine learning, scientific computing, numerical analysis, fluid mechanics
+Uncertainty quantification, machine learning, scientific computing, numerical analysis, solid and fluid mechanics.
 
 ## Teaching
 * MET 4076 - [Applied computational methods](https://sayrjked.github.io/teaching/2018-springsummer-teaching-1), spring and summer 2018.
