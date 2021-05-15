@@ -15,6 +15,7 @@ I'm currently a graduate research assistant working on projects in collaboration
 I earned my Master of Science (M.S.) in mechanical engineering in 2016 from the University of Kansas, where my research was focused on computational fluid mechanics ([Computational Mechanics Laboratory](https://me.engr.ku.edu/karan-s-suranas-research)).
 
 ### Curriculum vitae: [pdf](https://sayrjked.github.io/files/sayali-cv-web.pdf)
+### Resume: [pdf](https://sayrjked.github.io/files/SayaliKedariresumeweb.pdf)
 ### Contact: kedarisa [at] mail [dot] uc [dot] edu
 
 ### Summary
