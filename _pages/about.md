@@ -22,12 +22,12 @@ I earned my Master of Science (M.S.) in mechanical engineering in 2016 from the 
 - Strong background in scientific computing and numerical methods.
 - Expertise in different aspects of uncertainty quantification including optimal experimental design and calibration.
 - Experience in the application of the Bayesian framework to solve probabilistic inverse problems and traditional optimization methods to solve deterministic inverse problems in solid and fluid mechanics.
-- Comprehensive programming skills in Python, Julia, C, MATLAB languages, frameworks such as PyTorch, scikit-learn; and extensive experience with commercial CAE tools such as Abaqus.
+- Comprehensive programming skills in Python, Julia, C++, C, MATLAB languages, frameworks such as PyTorch, scikit-learn; and extensive experience with commercial CAE tools such as Abaqus.
 - Demonstrated ability to work both independently as well as collaboratively as a member of cross-functional teams in industry (P&G) and academia.
 - Proven ability to effectively handle multiple projects concurrently and manage competing priorities under demanding deadlines.
 
 ### Research Interests
-Uncertainty quantification, machine learning, scientific computing, numerical analysis, solid and fluid mechanics.
+Solid and fluid mechanics, scientific computing, numerical analysis, uncertainty quantification, machine learning.
 
 ## Teaching
 * MET 4076 - [Applied computational methods](https://sayrjked.github.io/teaching/2018-springsummer-teaching-1), spring and summer 2018.
