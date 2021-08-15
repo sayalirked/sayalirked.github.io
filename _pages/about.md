@@ -14,8 +14,8 @@ I'm currently a graduate research assistant working on projects in collaboration
 
 I earned my Master of Science (M.S.) in mechanical engineering in 2016 from the University of Kansas, where my research was focused on computational fluid mechanics ([Computational Mechanics Laboratory](https://me.engr.ku.edu/karan-s-suranas-research)).
 
-### Curriculum vitae: [pdf](https://sayrjked.github.io/files/sayali-cv-web.pdf)
-### Resume: [pdf](https://sayrjked.github.io/files/SayaliKedariresumeweb.pdf)
+### Curriculum vitae: [pdf](https://sayalirked.github.io/files/sayali-cv-web.pdf)
+### Resume: [pdf](https://sayalirked.github.io/files/SayaliKedariresumeweb.pdf)
 ### Contact: kedarisa [at] mail [dot] uc [dot] edu
 
 ### Summary
@@ -30,7 +30,7 @@ I earned my Master of Science (M.S.) in mechanical engineering in 2016 from the 
 Solid and fluid mechanics, scientific computing, numerical analysis, uncertainty quantification, machine learning.
 
 ## Teaching
-* MET 4076 - [Applied computational methods](https://sayrjked.github.io/teaching/2018-springsummer-teaching-1), spring and summer 2018.
+* MET 4076 - [Applied computational methods](https://sayalirked.github.io/teaching/2018-springsummer-teaching-1), spring and summer 2018.
 
 ## Travel
 I like to travel and share my experiences. You can read about some of my trips at my [travel photography blog](http://sayalikedari.blogspot.com/).
@@ -42,26 +42,26 @@ I like to travel and share my experiences. You can read about some of my trips a
 <table class="wide">
 <tr>
   <td class="left">
-     <img src="https://sayrjked.github.io/images/publpics/sample_Etau_loglikelihood.jpg" alt="bayesparamest" title="Bayesian parameter estimation (PhD thesis)"/>
+     <img src="https://sayalirked.github.io/images/publpics/sample_Etau_loglikelihood.jpg" alt="bayesparamest" title="Bayesian parameter estimation (PhD thesis)"/>
   </td>
   <td class="right">
-    <img src="https://sayrjked.github.io/images/publpics/Doptval_ttot_2termE0notstoc.jpg" alt="dopt2termE0nsto" title="D-optimality criterion (Vemaganti et al., On the Inference of Viscoelastic Constants from Stress Relaxation Experiments, 2019)"/>
+    <img src="https://sayalirked.github.io/images/publpics/Doptval_ttot_2termE0notstoc.jpg" alt="dopt2termE0nsto" title="D-optimality criterion (Vemaganti et al., On the Inference of Viscoelastic Constants from Stress Relaxation Experiments, 2019)"/>
   </td>
 </tr>
 <tr>
   <td class="left">
-     <img src="https://sayrjked.github.io/images/pics/FisherInfo_likelihoodsrepresn.jpg" alt="FIrepresn" title="Fisher Information - representation"/>
+     <img src="https://sayalirked.github.io/images/pics/FisherInfo_likelihoodsrepresn.jpg" alt="FIrepresn" title="Fisher Information - representation"/>
   </td>
   <td class="right">
-    <img src="https://sayrjked.github.io/images/pics/KLdivergence_representn.jpg" alt="KLrepresn" title="KL Divergence - representation"/>
+    <img src="https://sayalirked.github.io/images/pics/KLdivergence_representn.jpg" alt="KLrepresn" title="KL Divergence - representation"/>
   </td>
 </tr>
 <tr>
   <td class="left">
-        <img src="https://sayrjked.github.io/images/publpics/cavityM2.png" alt="Lid driven cavity" title="Contours of streamlines in the square lid driven cavity (MS thesis, 2016)"/>
+        <img src="https://sayalirked.github.io/images/publpics/cavityM2.png" alt="Lid driven cavity" title="Contours of streamlines in the square lid driven cavity (MS thesis, 2016)"/>
   </td>
   <td class="right">
-        <img src="https://sayrjked.github.io/images/publpics/expansion15_800x400.png" alt="asymmetric sudden expansion" title="Contours of streamlines in the asymmetric sudden expansion (MS thesis, 2016)"/>
+        <img src="https://sayalirked.github.io/images/publpics/expansion15_800x400.png" alt="asymmetric sudden expansion" title="Contours of streamlines in the asymmetric sudden expansion (MS thesis, 2016)"/>
   </td>
 </tr>
 </table>
