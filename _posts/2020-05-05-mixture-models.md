@@ -1,7 +1,7 @@
 ---
 title: 'Mixture Models'
 date: 2020-05-05
-excerpt: The post explains the concept of **Mixture Models**. Click [here](https://sayrjked.github.io/posts/2020/05/mixture-models/) to read further.
+excerpt: The post explains the concept of **Mixture Models**. Click [here](https://sayalirked.github.io/posts/2020/05/mixture-models/) to read further.
 permalink: /posts/2020/05/mixture-models/
 
 tags:
