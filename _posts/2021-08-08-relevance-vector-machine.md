@@ -1,7 +1,7 @@
 ---
 title: 'Relevance Vector Machine Learning for Bayesian Linear Regression'
 date: 2021-08-08
-excerpt: The post explains the concept of **Relevance Vector Machine (RVM) Learning**. Click [here](https://sayrjked.github.io/posts/2021/08/relevance-vector-machine/) to read further.
+excerpt: The post explains the concept of **Relevance Vector Machine (RVM) Learning**. Click [here](https://sayalirked.github.io/posts/2021/08/relevance-vector-machine/) to read further.
 permalink: /posts/2021/08/relevance-vector-machine/
 
 tags:
