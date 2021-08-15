@@ -10,7 +10,11 @@ tags:
   - Data Science
 ---
 
-Relevance Vector Machine (RVM) is a sparse Bayesian learning technique and provides probabilistic estimates of model parameters.
+Relevance Vector Machine (RVM) is a sparse Bayesian learning technique and provides probabilistic estimates of model parameters. Different modeling challenges including noisy data, overfitting, the curse of dimensionality, small experimental datasets exist. Thus, Bayesian relevance learning addresses these challenges and provides many advantages.
+
+Consider a linear regression forward problem as follows: $$\mathbf{d} = \mathbf{K} \boldsymbol{\theta} + \boldsymbol{\eta}$$.
+
+Here, the noise $$\boldsymbol{\eta}$$ is assumed to be Gaussian independent and identically (i.i.d.) random vector, $$\mathbf{K}$$ is the kernel, $$\boldsymbol{\theta}$$ are the unknown stochastic model parameters to be estimated and $$\mathbf{d}$$ is the experimental data.
 
 [Detailed writeup coming soon.]
 
