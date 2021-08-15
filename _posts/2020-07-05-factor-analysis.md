@@ -1,7 +1,7 @@
 ---
 title: 'Factor Analysis'
 date: 2020-07-05
-excerpt: The post explains the concept of **Factor Analysis**. Click [here](https://sayrjked.github.io/posts/2020/07/factor-analysis/) to read further.
+excerpt: The post explains the concept of **Factor Analysis**. Click [here](https://sayalirked.github.io/posts/2020/07/factor-analysis/) to read further.
 permalink: /posts/2020/07/factor-analysis/
 
 tags:
