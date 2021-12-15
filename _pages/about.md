@@ -20,11 +20,11 @@ I earned my Master of Science (M.S.) in mechanical engineering in 2016 from the 
 
 ### Summary
 - Strong background in scientific computing and numerical methods.
-- 4 peer-reviewed journal publications.
 - Comprehensive programming skills in Python, Julia, C++, C, MATLAB languages, frameworks such as PyTorch, scikit-learn; and extensive experience with commercial CAE tools such as Abaqus.
+- Demonstrated ability to work both independently as well as collaboratively as a member of cross-functional teams in industry (P&G) and academia.
+- Authored 4 peer-reviewed journal publications in collaboration with academia.
 - Expertise in different aspects of uncertainty quantification including optimal experimental design and calibration.
 - Experience in the application of the Bayesian framework to solve probabilistic inverse problems and traditional optimization methods to solve deterministic inverse problems in solid and fluid mechanics.
-- Demonstrated ability to work both independently as well as collaboratively as a member of cross-functional teams in industry (P&G) and academia.
 - Proven ability to effectively handle multiple projects concurrently and manage competing priorities under demanding deadlines.
 
 ### Research Interests
