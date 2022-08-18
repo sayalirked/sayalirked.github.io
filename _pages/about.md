@@ -16,7 +16,6 @@ I worked on research projects in collaboration with Procter & Gamble (P&G) at th
 
 I earned my Master of Science (M.S.) in mechanical engineering in 2016 from the University of Kansas, where my research was focused on finite element analysis and computational fluid mechanics (Computational Mechanics Laboratory).
 
-### Curriculum vitae: [pdf](https://sayalirked.github.io/files/sayali-cv-web.pdf)
 ### Resume: [pdf](https://sayalirked.github.io/files/SayaliKedariresumeweb.pdf)
 ### Contact: kedarisa [at] mail [dot] uc [dot] edu
 
