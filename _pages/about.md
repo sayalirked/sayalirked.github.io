@@ -44,20 +44,22 @@ I like to travel and share my experiences. You can read about some of my trips a
 <table class="wide">
 <tr>
   <td class="left">
-     <img src="https://sayalirked.github.io/images/publpics/HBT1_JoRPBD.JPG" alt="HBT1_JoRPBD" title="Bayesian posterior covariance matrix with T1 regularization [Kedari et al., A hierarchical Bayesian approach to regularization with application to the inference of relaxation spectra, 2021](https://sor.scitation.org/doi/abs/10.1122/8.0000232)"/>
+     <img src="https://sayalirked.github.io/images/publpics/HBT1_JoRPBD.JPG" alt="HBT1_JoRPBD" title="Bayesian posterior covariance matrix with T1 regularization"/>
     <label>Bayesian posterior covariance matrix with T1 regularization, <a href="https://sor.scitation.org/doi/abs/10.1122/8.0000232">Kedari et al., A hierarchical Bayesian approach to regularization with application to the inference of relaxation spectra, 2021</a></label>
   </td>
   <td class="right">
-    <img src="https://sayalirked.github.io/images/publpics/HBT2_JoRPBD.JPG" alt="HBT2_JoRPBD" title="Bayesian posterior covariance matrix with T2 regularization [Kedari et al., A hierarchical Bayesian approach to regularization with application to the inference of relaxation spectra, 2021](https://sor.scitation.org/doi/abs/10.1122/8.0000232)"/>
+    <img src="https://sayalirked.github.io/images/publpics/HBT2_JoRPBD.JPG" alt="HBT2_JoRPBD" title="Bayesian posterior covariance matrix with T2 regularization"/>
     <label>Bayesian posterior covariance matrix with T2 regularization, <a href="https://sor.scitation.org/doi/abs/10.1122/8.0000232">Kedari et al., A hierarchical Bayesian approach to regularization with application to the inference of relaxation spectra, 2021</a></label>
   </td>
 </tr>
 <tr>
   <td class="left">
      <img src="https://sayalirked.github.io/images/publpics/sample_Etau_loglikelihood.jpg" alt="bayesparamest" title="Bayesian parameter estimation (PhD thesis)"/>
+    <label>Bayesian parameter estimation (PhD dissertation), <a href="https://etd.ohiolink.edu/apexprod/rws_olink/r/1501/10?clear=10&p10_accession_num=ucin1652098786994649">Kedari, Bayesian Learning in Computational Rheology: Applications to Soft Tissues and Polymers, 2022</a></label>
   </td>
   <td class="right">
-    <img src="https://sayalirked.github.io/images/publpics/Doptval_ttot_2termE0notstoc.jpg" alt="dopt2termE0nsto" title="D-optimality criterion (Vemaganti et al., On the Inference of Viscoelastic Constants from Stress Relaxation Experiments, 2019)"/>
+    <img src="https://sayalirked.github.io/images/publpics/Doptval_ttot_2termE0notstoc.jpg" alt="dopt2termE0nsto" title="D-optimality criterion"/>
+    <label>D-optimality criterion, <a href="https://link.springer.com/article/10.1007/s11043-018-09403-y">Vemaganti et al., On the Inference of Viscoelastic Constants from Stress Relaxation Experiments, 2019</a></label>
   </td>
 </tr>
 <tr>
