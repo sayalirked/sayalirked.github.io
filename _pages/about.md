@@ -22,14 +22,14 @@ I earned my Master of Science (M.S.) in mechanical engineering in 2016 from the 
 ### Summary
 - Strong background in finite element analysis and scientific computing.
 - Comprehensive programming skills in Python, Julia, C++, C, MATLAB languages, frameworks such as scikit-learn; and extensive experience with commercial CAE tools such as Abaqus.
-- Demonstrated ability to work both independently as well as collaboratively as a member of cross-functional teams in industry (P&G) and academia.
-- Authored 4 peer-reviewed journal publications in collaboration with academia.
+- Demonstrated ability to work both independently as well as collaboratively as a member of cross-functional teams in industry and academia.
+- Authored 4 peer-reviewed journal publications.
 - Expertise in different aspects of uncertainty quantification including optimal experimental design and calibration.
 - Experience in the application of the Bayesian framework to solve probabilistic inverse problems and traditional optimization methods to solve deterministic inverse problems in solid and fluid mechanics.
 - Proven ability to effectively handle multiple projects concurrently and manage competing priorities under demanding deadlines.
 
 ### Research Interests
-Solid and fluid mechanics, scientific computing, finite element analysis, uncertainty quantification, machine learning.
+Solid mechanics, scientific computing, finite element analysis, uncertainty quantification, machine learning.
 
 ## Teaching
 * MET 4076 - [Applied computational methods](https://sayalirked.github.io/teaching/2018-springsummer-teaching-1), spring and summer 2018.
@@ -42,6 +42,14 @@ I like to travel and share my experiences. You can read about some of my trips a
 <br>
 
 <table class="wide">
+<tr>
+  <td class="left">
+     <img src="https://sayalirked.github.io/images/publpics/HBT1_JoRPBD.jpg" alt="HBT1_JoRPBD" title="Bayesian posterior covariance matrix with T1 regularization (Kedari et al., A hierarchical Bayesian approach to regularization with application to the inference of relaxation spectra, 2021)"/>
+  </td>
+  <td class="right">
+    <img src="https://sayalirked.github.io/images/publpics/HBT2_JoRPBD.jpg" alt="HBT2_JoRPBD" title="Bayesian posterior covariance matrix with T2 regularization (Kedari et al., A hierarchical Bayesian approach to regularization with application to the inference of relaxation spectra, 2021)"/>
+  </td>
+</tr>
 <tr>
   <td class="left">
      <img src="https://sayalirked.github.io/images/publpics/sample_Etau_loglikelihood.jpg" alt="bayesparamest" title="Bayesian parameter estimation (PhD thesis)"/>
