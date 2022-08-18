@@ -73,11 +73,11 @@ I like to travel and share my experiences. You can read about some of my trips a
 <tr>
   <td class="left">
         <img src="https://sayalirked.github.io/images/publpics/cavityM2.png" alt="Lid driven cavity" title="Contours of streamlines in the square lid driven cavity (MS thesis, 2016)"/>
-    <label>Contours of streamlines in the square lid driven cavity (MS thesis), <a href="">Surana et al., A nonlinear constitutive theory for deviatoric Cauchy stress tensor for incompressible viscous fluids</a></label>
+    <label>Contours of streamlines in the square lid driven cavity (MS thesis), <a href="https://kuscholarworks.ku.edu/handle/1808/24136">Kedari, Investigation of More Complete Constitutive Theories for Heat Conduction in Solids and for Deviatoric Stress Tensor in Incompressible Fluids, 2016</a></label>
   </td>
   <td class="right">
         <img src="https://sayalirked.github.io/images/publpics/expansion15_800x400.png" alt="asymmetric sudden expansion" title="Contours of streamlines in the asymmetric sudden expansion (MS thesis, 2016)"/>
-    <label>Contours of streamlines in the asymmetric sudden expansion (MS thesis), <a href="">Surana et al., A nonlinear constitutive theory for deviatoric Cauchy stress tensor for incompressible viscous fluids</a></label>
+    <label>Contours of streamlines in the asymmetric sudden expansion (MS thesis), <a href="https://kuscholarworks.ku.edu/bitstream/handle/1808/27331/SuranaK_2017.pdf?isAllowed=y&sequence=1">A nonlinear constitutive theory for deviatoric Cauchy stress tensor for incompressible viscous fluids, 2017</a></label>
   </td>
 </tr>
 </table>
