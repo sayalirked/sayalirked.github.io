@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sayali R. Kedari"
-  avatar           : "profile_sayali.jpg"
+  avatar           : 
   bio              : "Ph.D. | Computational Mechanics | Machine Learning"
   location         : "Cincinnati, Ohio, US"
   employer         :
