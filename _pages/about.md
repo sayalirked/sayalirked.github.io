@@ -21,7 +21,7 @@ I earned my Master of Science (M.S.) in mechanical engineering in 2016 from the 
 
 ### Summary
 - Strong background in finite element analysis and scientific computing.
-- Comprehensive programming skills in Python, Julia, C++, C, MATLAB languages, frameworks such as PyTorch, scikit-learn; and extensive experience with commercial CAE tools such as Abaqus.
+- Comprehensive programming skills in Python, Julia, C++, C, MATLAB languages, frameworks such as scikit-learn; and extensive experience with commercial CAE tools such as Abaqus.
 - Demonstrated ability to work both independently as well as collaboratively as a member of cross-functional teams in industry (P&G) and academia.
 - Authored 4 peer-reviewed journal publications in collaboration with academia.
 - Expertise in different aspects of uncertainty quantification including optimal experimental design and calibration.
