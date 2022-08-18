@@ -44,10 +44,10 @@ I like to travel and share my experiences. You can read about some of my trips a
 <table class="wide">
 <tr>
   <td class="left">
-     <img src="https://sayalirked.github.io/images/publpics/HBT1_JoRPBD.JPG" alt="HBT1_JoRPBD" title="Bayesian posterior covariance matrix with T1 regularization (Kedari et al., A hierarchical Bayesian approach to regularization with application to the inference of relaxation spectra, 2021)"/>
+     <img src="https://sayalirked.github.io/images/publpics/HBT1_JoRPBD.JPG" alt="HBT1_JoRPBD" title="Bayesian posterior covariance matrix with T1 regularization [Kedari et al., A hierarchical Bayesian approach to regularization with application to the inference of relaxation spectra, 2021](https://sor.scitation.org/doi/abs/10.1122/8.0000232)"/>
   </td>
   <td class="right">
-    <img src="https://sayalirked.github.io/images/publpics/HBT2_JoRPBD.JPG" alt="HBT2_JoRPBD" title="Bayesian posterior covariance matrix with T2 regularization (Kedari et al., A hierarchical Bayesian approach to regularization with application to the inference of relaxation spectra, 2021)"/>
+    <img src="https://sayalirked.github.io/images/publpics/HBT2_JoRPBD.JPG" alt="HBT2_JoRPBD" title="Bayesian posterior covariance matrix with T2 regularization [Kedari et al., A hierarchical Bayesian approach to regularization with application to the inference of relaxation spectra, 2021](https://sor.scitation.org/doi/abs/10.1122/8.0000232)"/>
   </td>
 </tr>
 <tr>
