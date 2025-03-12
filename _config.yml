@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sayali R. Kedari"
 title_separator          : "-"
 name                     : &name "Sayali R. Kedari"
-description              : &description "Ph.D. | Computational Mechanics | Machine Learning"
+description              : &description "Ph.D. | Computational Mechanics | Machine Learning/Artificial Intelligence"
 url                      : https://sayalirked.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sayalirked/sayalirked.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Sayali R. Kedari"
   avatar           : 
-  bio              : "Ph.D. | Computational Mechanics | Machine Learning"
-  location         : "Cincinnati, Ohio, US"
+  bio              : "Ph.D. | Computational Mechanics | Machine Learning/Artificial Intelligence"
+  location         : "Mason, Ohio, US"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=wmJICCwAAAAJ&hl=en"
